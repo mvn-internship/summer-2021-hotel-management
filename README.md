@@ -33,3 +33,8 @@ composer install
 ./vendor/bin/phpcs -n -d memory_limit=-1 --standard=phpcs.xml
 ./vendor/bin/phpmd app text phpmd.xml
 ```
+
+Using to fix some thing automatically
+
+``` bash
+./vendor/bin/phpcs -n -d memory_limit=-1 --standard=phpcs.xml
