@@ -12,9 +12,9 @@ class RedirectIfAuthenticated
     /**
      * Handle an incoming request.
      *
-     * @param \Illuminate\Http\Request $request   comment variables
-     * @param \Closure                 $next      comment variables
-     * @param string|null              ...$guards comment variables
+     * @param \Illuminate\Http\Request $request   comment about this variable
+     * @param \Closure                 $next      comment about this variable
+     * @param string|null              ...$guards comment about this variable
      *
      * @return mixed
      */
