@@ -50,3 +50,4 @@ Using to fix some thing automatically
 
 ``` bash
 ./vendor/bin/phpcbf -n -d memory_limit=-1 --standard=phpcs.xml
+```
