@@ -8,8 +8,9 @@ use Illuminate\Database\Eloquent\Model;
 class UserOfRoom extends Model
 {
     use HasFactory;
+
     protected $fillable = [
-        'user_name', 
+        'user_name',
         'address',
         'phone',
         'check_in',

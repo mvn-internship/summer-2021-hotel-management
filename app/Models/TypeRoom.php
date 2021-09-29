@@ -12,6 +12,6 @@ class TypeRoom extends Model
     protected $table = 'type_rooms';
 
     protected $fillable = [
-        'name', 'limit_persons', 
+        'name', 'limit_persons',
     ];
 }

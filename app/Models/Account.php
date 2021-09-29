@@ -8,8 +8,9 @@ use Illuminate\Database\Eloquent\Model;
 class Account extends Model
 {
     use HasFactory;
+
     protected $fillable = [
-        'email', 
+        'email',
         'password',
         'avatar'
     ];
@@ -17,5 +18,4 @@ class Account extends Model
         'password',
         'remember_token',
     ];
-    
 }
