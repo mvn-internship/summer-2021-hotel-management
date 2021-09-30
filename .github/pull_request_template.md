@@ -14,6 +14,11 @@ Please add on link task and check options that are relevant.
 - [ ] Update task cause change spec:
 - [ ] Bug fix:
 
+### Check `explain` query
+
+Please describe all queries and `explain` queries (take a photo) which you use in this PR.
+- Default: N/A
+
 ### Run command
 
 Please describe the command such as migrate or seeder, etc ..
