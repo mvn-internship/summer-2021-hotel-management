@@ -11,6 +11,11 @@ try {
     window.$ = window.jQuery = require('jquery');
 
     require('bootstrap');
+    require('owl.carousel');
+    require('jquery-ui');
+    require('bootstrap-datepicker');
+    require('waypoints/lib/jquery.waypoints');
+
 } catch (e) {}
 
 /**

@@ -13,9 +13,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+Route::group(['namespace' => 'User'], function() {
+    Route::get('/',[App\Http\Controllers\HomeController::class, 'index']);
 });
+
+
 Route::prefix('admin')->group(function () {
     Route::get('/', function () {
        return view('welcome');
