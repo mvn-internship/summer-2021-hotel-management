@@ -1,7 +1,7 @@
 @extends('user.layout.master')
 
 @section('title')
-    Hotel
+    Hotel TiTu
 @endsection
 
 @section('carousel')
@@ -12,7 +12,7 @@
                 <div class="row no-gutters slider-text align-items-center justify-content-center">
                     <div class="col-md-12 ftco-animate text-center">
                         <div class="text mb-5 pb-3">
-                            <h1 class="mb-3">Welcome To Hotel</h1>
+                            <h1 class="mb-3">Welcome To Hotel TiTu</h1>
                             <h2>Hotels &amp; Resorts</h2>
                         </div>
                     </div>

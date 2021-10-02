@@ -96,15 +96,15 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center" style="background-image: url(images/bg_2.jpg);">
-						<a href="https://vimeo.com/45830194" class="icon popup-vimeo d-flex justify-content-center align-items-center">
+						<a href="https://vimeo.com/45830194" class="icon fa fa-play d-flex justify-content-center align-items-center">
 							<span class="icon-play"></span>
 						</a>
 					</div>
 					<div class="col-md-7 py-5 wrap-about pb-md-5 ftco-animate">
 	          <div class="heading-section heading-section-wo-line pt-md-5 pl-md-5 mb-5">
 	          	<div class="ml-md-0">
-		          	<span class="subheading">Welcome to Hotel</span>
-		            <h2 class="mb-4">Welcome To Our Hotel</h2>
+		          	<span class="subheading">Welcome to Hotel TiTu</span>
+		            <h2 class="mb-4">Welcome To Our Hotel TiTu</h2>
 	            </div>
 	          </div>
 	          <div class="pb-md-5 text-gray">
@@ -533,7 +533,7 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Deluxe Hotel</h2>
+              <h2 class="ftco-heading-2">TiTu Hotel</h2>
               <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="fa fa-twitter"></span></a></li>

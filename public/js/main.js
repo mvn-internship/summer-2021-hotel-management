@@ -158,7 +158,7 @@ $(function() {
 	  console.log('show');
 	});
 
-	// scroll
+	scroll
 	var scrollWindow = function() {
 		$(window).scroll(function(){
 			var $w = $(this),
@@ -345,8 +345,16 @@ $(function() {
 	  'autoclose': true
 	});
 
+	// $(window).scroll(function(){
+	// 	var sticky = $('#ftco-navbar'),
+	// 		scroll = $(window).scrollTop();
+	  
+	// 	if (scroll >= 100) sticky.addClass('ftco-navbar-fixed');
+	// 	else sticky.removeClass('ftco-navbar-fixed');
+	//   });
 
-
+	
 
 });
+
 

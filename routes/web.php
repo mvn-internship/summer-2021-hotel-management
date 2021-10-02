@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\HomeController;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,7 +19,7 @@ use Illuminate\Support\Facades\Route;
 // });
 
 Route::group(['namespace' => 'User'], function() {
-    Route::get('/',[App\Http\Controllers\HomeController::class, 'index']);
+    Route::get('/',[HomeController::class, 'index']);
 });
 
 

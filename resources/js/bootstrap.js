@@ -15,8 +15,8 @@ try {
     require('jquery-ui');
     require('bootstrap-datepicker');
     require('waypoints/lib/jquery.waypoints');
-
-} catch (e) {}
+} catch (e) {
+}
 
 /**
  * We'll load the axios HTTP library which allows us to easily issue requests
