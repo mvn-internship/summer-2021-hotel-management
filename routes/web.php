@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\User\RoomController;
+use App\Http\Controllers\User\BookingController;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,8 +20,12 @@ use App\Http\Controllers\HomeController;
 //     return view('welcome');
 // });
 
-Route::group(['namespace' => 'User'], function() {
-    Route::get('/',[HomeController::class, 'index']);
+Route::group(['namespace' => 'user'], function() {
+    Route::get('/',[HomeController::class, 'index'])->name('users.index');
+    Route::get('rooms',[RoomController::class, 'index'])->name('rooms.index');
+    Route::get('rooms/create',[RoomController::class, 'create'])->name('rooms.create');
+    Route::get('rooms/{id}',[RoomController::class, 'show'])->name('rooms.show');
+    Route::get('bookings',[BookingController::class, 'index'])->name('bookings.index');
 });
 
 
