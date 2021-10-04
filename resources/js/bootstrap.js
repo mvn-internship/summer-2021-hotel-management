@@ -15,6 +15,7 @@ try {
     require('jquery-slimscroll');
     require('jquery.scrollbar');
 } catch (e) {
+    //
 }
 
 /**
