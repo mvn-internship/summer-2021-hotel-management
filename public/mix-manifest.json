@@ -1,4 +1,10 @@
 {
     "/js/app.js": "/js/app.js",
+    "/js/jquery-slimscroll.js": "/js/jquery-slimscroll.js",
+    "/js/jquery-ui.js": "/js/jquery-ui.js",
+    "/js/jquery.scrollbar.js": "/js/jquery.scrollbar.js",
+    "/js/bootstrap.js": "/js/bootstrap.js",
+    "/css/scrollbar.css": "/css/scrollbar.css",
+    "/css/fontawesome.css": "/css/fontawesome.css",
     "/css/app.css": "/css/app.css"
 }
