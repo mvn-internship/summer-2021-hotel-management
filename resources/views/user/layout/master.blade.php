@@ -7,6 +7,9 @@
    
     <link rel="stylesheet" href="{{ asset('/css/style-user.css') }}">
     <link rel="stylesheet" href="{{ asset('/css/app.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/owl_carousel.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/bootstrap_datepicker.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/font_awesome.css') }}">
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i" rel="stylesheet">
   </head>
@@ -133,11 +136,11 @@
   <!-- <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div> -->
 
 
-  <script src="/js/app.js"></script>
-  <script src="/js/owl_carousel.js"></script>
-  <script src="/js/jquery_ui.js"></script>
-  <script src="/js/bootstrap_datepicker.js"></script>
-  <script src="/js/waypoints.js"></script>
-  <script src="/js/main.js"></script>
+  <script src="{{ asset('/js/app.js') }}"></script>
+  <script src="{{ asset('/js/owl_carousel.js') }}"></script>
+  <script src="{{ asset('/js/jquery_ui.js') }}"></script>
+  <script src="{{ asset('/js/bootstrap_datepicker.js') }}"></script>
+  <script src="{{ asset('/js/waypoints.js') }}"></script>
+  <script src="{{ asset('/js/main.js') }}"></script>
   </body>
 </html>

@@ -4,5 +4,8 @@
     "/js/jquery_ui.js": "/js/jquery_ui.js",
     "/js/bootstrap_datepicker.js": "/js/bootstrap_datepicker.js",
     "/js/waypoints.js": "/js/waypoints.js",
-    "/css/app.css": "/css/app.css"
+    "/css/bootstrap_datepicker.css": "/css/bootstrap_datepicker.css",
+    "/css/owl_carousel.css": "/css/owl_carousel.css",
+    "/css/app.css": "/css/app.css",
+    "/css/font_awesome.css": "/css/font_awesome.css"
 }

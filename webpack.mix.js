@@ -17,4 +17,7 @@ mix.js('resources/js/app.js', 'public/js')
     .js('resources/js/bootstrap_datepicker.js', 'public/js')
     .js('resources/js/waypoints.js', 'public/js')
     .sass('resources/sass/app.scss', 'public/css')
+    .sass('resources/sass/owl_carousel.scss', 'public/css')
+    .sass('resources/sass/bootstrap_datepicker.scss', 'public/css')
+    .sass('resources/sass/font_awesome.scss', 'public/css')
     .sourceMaps();
