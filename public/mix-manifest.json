@@ -1,4 +1,10 @@
 {
     "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css"
+    "/js/owl_carousel.js": "/js/owl_carousel.js",
+    "/js/jquery_ui.js": "/js/jquery_ui.js",
+    "/js/waypoints.js": "/js/waypoints.js",
+    "/css/owl_carousel.css": "/css/owl_carousel.css",
+    "/css/app.css": "/css/app.css",
+    "/css/font_awesome.css": "/css/font_awesome.css",
+    "/css/bootstrap_datepicker.css": "/css/bootstrap_datepicker.css"
 }
