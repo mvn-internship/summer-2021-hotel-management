@@ -139,7 +139,6 @@
   <script src="{{ asset('/js/app.js') }}"></script>
   <script src="{{ asset('/js/owl_carousel.js') }}"></script>
   <script src="{{ asset('/js/jquery_ui.js') }}"></script>
-  <script src="{{ asset('/js/bootstrap_datepicker.js') }}"></script>
   <script src="{{ asset('/js/waypoints.js') }}"></script>
   <script src="{{ asset('/js/main.js') }}"></script>
   </body>
