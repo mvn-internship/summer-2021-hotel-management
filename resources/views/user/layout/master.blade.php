@@ -5,14 +5,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
    
-    <link rel="stylesheet" href="{{ asset('/css/styleUser.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/style-user.css') }}">
     <link rel="stylesheet" href="{{ asset('/css/app.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/owl_carousel.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/bootstrap_datepicker.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/font_awesome.css') }}">
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i" rel="stylesheet">
   </head>
   <body>
 
-    @include('user/layout.nav')
+    @include('user.layout.navbar')
 
     
     @yield('carousel')
@@ -29,35 +32,35 @@
         </div>
         <div class="row no-gutters">
           <div class="col-sm-12 col-md ftco-animate">
-            <a href="{{ asset('images/insta-1.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-1.jpg);">
+            <a href="{{ asset('/images/insta-1.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-1.jpg);">
               <div class="icon d-flex justify-content-center">
                 <span class="fa fa-instagram align-self-center"></span>
               </div>
             </a>
           </div>
           <div class="col-sm-12 col-md ftco-animate">
-            <a href="{{ asset('images/insta-2.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-2.jpg);">
+            <a href="{{ asset('/images/insta-2.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-2.jpg);">
               <div class="icon d-flex justify-content-center">
                 <span class="fa fa-instagram align-self-center"></span>
               </div>
             </a>
           </div>
           <div class="col-sm-12 col-md ftco-animate">
-            <a href="{{ asset('images/insta-3.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-3.jpg);">
+            <a href="{{ asset('/images/insta-3.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-3.jpg);">
               <div class="icon d-flex justify-content-center">
                 <span class="fa fa-instagram align-self-center"></span>
               </div>
             </a>
           </div>
           <div class="col-sm-12 col-md ftco-animate">
-            <a href="{{ asset('images/insta-4.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-4.jpg);">
+            <a href="{{ asset('/images/insta-4.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-4.jpg);">
               <div class="icon d-flex justify-content-center">
                 <span class="fa fa-instagram align-self-center"></span>
               </div>
             </a>
           </div>
           <div class="col-sm-12 col-md ftco-animate">
-            <a href="{{ asset('images/insta-5.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-5.jpg);">
+            <a href="{{ asset('/images/insta-5.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-5.jpg);">
               <div class="icon d-flex justify-content-center">
                 <span class="fa fa-instagram align-self-center"></span>
               </div>
@@ -133,7 +136,10 @@
   <!-- <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div> -->
 
 
-  <script src="{{ mix('/js/app.js') }}"></script>
-  <script src="/js/main.js"></script>
+  <script src="{{ asset('/js/app.js') }}"></script>
+  <script src="{{ asset('/js/owl_carousel.js') }}"></script>
+  <script src="{{ asset('/js/jquery_ui.js') }}"></script>
+  <script src="{{ asset('/js/waypoints.js') }}"></script>
+  <script src="{{ asset('/js/main.js') }}"></script>
   </body>
 </html>

@@ -16,10 +16,6 @@ use App\Http\Controllers\User\BookingController;
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
-
 Route::group(['namespace' => 'user'], function() {
     Route::get('/',[HomeController::class, 'index'])->name('users.index');
     Route::get('rooms',[RoomController::class, 'index'])->name('rooms.index');
@@ -27,8 +23,6 @@ Route::group(['namespace' => 'user'], function() {
     Route::get('rooms/{id}',[RoomController::class, 'show'])->name('rooms.show');
     Route::get('bookings',[BookingController::class, 'index'])->name('bookings.index');
 });
-
-
 Route::prefix('admin')->group(function () {
     Route::get('/', function () {
        return view('welcome');
