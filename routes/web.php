@@ -14,15 +14,9 @@ use App\Http\Controllers\HomeController;
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
-
 Route::group(['namespace' => 'User'], function() {
     Route::get('/',[HomeController::class, 'index']);
 });
-
-
 Route::prefix('admin')->group(function () {
     Route::get('/', function () {
        return view('welcome');

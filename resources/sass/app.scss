@@ -7,8 +7,9 @@
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
 
-@import 'owl.carousel/dist/assets/owl.carousel.css';
+//Owl Carousel 
+@import 'owl_carousel';
 
-@import 'node_modules/bootstrap-datepicker/dist/css/bootstrap-datepicker';
+@import 'bootstrap_datepicker';
 
-@import 'node_modules/font-awesome/css/font-awesome';
+@import 'font_awesome';
