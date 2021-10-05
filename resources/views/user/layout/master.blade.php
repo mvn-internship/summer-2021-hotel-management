@@ -32,35 +32,35 @@
         </div>
         <div class="row no-gutters">
           <div class="col-sm-12 col-md ftco-animate">
-            <a href="{{ asset('/images/insta-1.jpg') }}" class="insta-img image-popup" style="background-image: url(images/insta-1.jpg);">
+            <a href="{{ asset('/images/insta-1.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-1.jpg);">
               <div class="icon d-flex justify-content-center">
                 <span class="fa fa-instagram align-self-center"></span>
               </div>
             </a>
           </div>
           <div class="col-sm-12 col-md ftco-animate">
-            <a href="{{ asset('/images/insta-2.jpg') }}" class="insta-img image-popup" style="background-image: url(images/insta-2.jpg);">
+            <a href="{{ asset('/images/insta-2.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-2.jpg);">
               <div class="icon d-flex justify-content-center">
                 <span class="fa fa-instagram align-self-center"></span>
               </div>
             </a>
           </div>
           <div class="col-sm-12 col-md ftco-animate">
-            <a href="{{ asset('/images/insta-3.jpg') }}" class="insta-img image-popup" style="background-image: url(images/insta-3.jpg);">
+            <a href="{{ asset('/images/insta-3.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-3.jpg);">
               <div class="icon d-flex justify-content-center">
                 <span class="fa fa-instagram align-self-center"></span>
               </div>
             </a>
           </div>
           <div class="col-sm-12 col-md ftco-animate">
-            <a href="{{ asset('/images/insta-4.jpg') }}" class="insta-img image-popup" style="background-image: url(images/insta-4.jpg);">
+            <a href="{{ asset('/images/insta-4.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-4.jpg);">
               <div class="icon d-flex justify-content-center">
                 <span class="fa fa-instagram align-self-center"></span>
               </div>
             </a>
           </div>
           <div class="col-sm-12 col-md ftco-animate">
-            <a href="{{ asset('/images/insta-5.jpg') }}" class="insta-img image-popup" style="background-image: url(images/insta-5.jpg);">
+            <a href="{{ asset('/images/insta-5.jpg') }}" class="insta-img image-popup" style="background-image: url(/images/insta-5.jpg);">
               <div class="icon d-flex justify-content-center">
                 <span class="fa fa-instagram align-self-center"></span>
               </div>

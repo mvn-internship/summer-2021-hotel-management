@@ -2219,36 +2219,36 @@ eval("var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPAC
    * ------------------------------------------------------------------------
    */
 
-/***/ "./resources/sass/owl_carousel.scss":
+/***/ "./resources/sass/owl-carousel.scss":
 /*!******************************************!*\
-  !*** ./resources/sass/owl_carousel.scss ***!
+  !*** ./resources/sass/owl-carousel.scss ***!
   \******************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvc2Fzcy9vd2xfY2Fyb3VzZWwuc2Nzcy5qcyIsIm1hcHBpbmdzIjoiO0FBQUEiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvc2Fzcy9vd2xfY2Fyb3VzZWwuc2Nzcz9kYzU4Il0sInNvdXJjZXNDb250ZW50IjpbIi8vIGV4dHJhY3RlZCBieSBtaW5pLWNzcy1leHRyYWN0LXBsdWdpblxuZXhwb3J0IHt9OyJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./resources/sass/owl_carousel.scss\n");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvc2Fzcy9vd2wtY2Fyb3VzZWwuc2Nzcy5qcyIsIm1hcHBpbmdzIjoiO0FBQUEiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvc2Fzcy9vd2wtY2Fyb3VzZWwuc2Nzcz9kYzM0Il0sInNvdXJjZXNDb250ZW50IjpbIi8vIGV4dHJhY3RlZCBieSBtaW5pLWNzcy1leHRyYWN0LXBsdWdpblxuZXhwb3J0IHt9OyJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./resources/sass/owl-carousel.scss\n");
 
 /***/ }),
 
-/***/ "./resources/sass/bootstrap_datepicker.scss":
+/***/ "./resources/sass/bootstrap-datepicker.scss":
 /*!**************************************************!*\
-  !*** ./resources/sass/bootstrap_datepicker.scss ***!
+  !*** ./resources/sass/bootstrap-datepicker.scss ***!
   \**************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvc2Fzcy9ib290c3RyYXBfZGF0ZXBpY2tlci5zY3NzLmpzIiwibWFwcGluZ3MiOiI7QUFBQSIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL3Jlc291cmNlcy9zYXNzL2Jvb3RzdHJhcF9kYXRlcGlja2VyLnNjc3M/YWZkOSJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBleHRyYWN0ZWQgYnkgbWluaS1jc3MtZXh0cmFjdC1wbHVnaW5cbmV4cG9ydCB7fTsiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./resources/sass/bootstrap_datepicker.scss\n");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvc2Fzcy9ib290c3RyYXAtZGF0ZXBpY2tlci5zY3NzLmpzIiwibWFwcGluZ3MiOiI7QUFBQSIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL3Jlc291cmNlcy9zYXNzL2Jvb3RzdHJhcC1kYXRlcGlja2VyLnNjc3M/OWQwZSJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBleHRyYWN0ZWQgYnkgbWluaS1jc3MtZXh0cmFjdC1wbHVnaW5cbmV4cG9ydCB7fTsiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./resources/sass/bootstrap-datepicker.scss\n");
 
 /***/ }),
 
-/***/ "./resources/sass/font_awesome.scss":
+/***/ "./resources/sass/font-awesome.scss":
 /*!******************************************!*\
-  !*** ./resources/sass/font_awesome.scss ***!
+  !*** ./resources/sass/font-awesome.scss ***!
   \******************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvc2Fzcy9mb250X2F3ZXNvbWUuc2Nzcy5qcyIsIm1hcHBpbmdzIjoiO0FBQUEiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvc2Fzcy9mb250X2F3ZXNvbWUuc2Nzcz9jZmYzIl0sInNvdXJjZXNDb250ZW50IjpbIi8vIGV4dHJhY3RlZCBieSBtaW5pLWNzcy1leHRyYWN0LXBsdWdpblxuZXhwb3J0IHt9OyJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./resources/sass/font_awesome.scss\n");
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvc2Fzcy9mb250LWF3ZXNvbWUuc2Nzcy5qcyIsIm1hcHBpbmdzIjoiO0FBQUEiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvc2Fzcy9mb250LWF3ZXNvbWUuc2Nzcz82NjIzIl0sInNvdXJjZXNDb250ZW50IjpbIi8vIGV4dHJhY3RlZCBieSBtaW5pLWNzcy1leHRyYWN0LXBsdWdpblxuZXhwb3J0IHt9OyJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./resources/sass/font-awesome.scss\n");
 
 /***/ }),
 
@@ -49979,10 +49979,10 @@ module.exports = JSON.parse('{"_args":[["axios@0.21.4","/home/qcc/summer-2021-ho
 /******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
 /******/ 		var installedChunks = {
 /******/ 			"/js/app": 0,
-/******/ 			"css/owl_carousel": 0,
+/******/ 			"css/owl-carousel": 0,
 /******/ 			"css/app": 0,
-/******/ 			"css/font_awesome": 0,
-/******/ 			"css/bootstrap_datepicker": 0
+/******/ 			"css/font-awesome": 0,
+/******/ 			"css/bootstrap-datepicker": 0
 /******/ 		};
 /******/ 		
 /******/ 		// no chunk on demand loading
@@ -50032,11 +50032,11 @@ module.exports = JSON.parse('{"_args":[["axios@0.21.4","/home/qcc/summer-2021-ho
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	__webpack_require__.O(undefined, ["css/owl_carousel","css/app","css/font_awesome","css/bootstrap_datepicker"], () => (__webpack_require__("./resources/js/app.js")))
-/******/ 	__webpack_require__.O(undefined, ["css/owl_carousel","css/app","css/font_awesome","css/bootstrap_datepicker"], () => (__webpack_require__("./resources/sass/app.scss")))
-/******/ 	__webpack_require__.O(undefined, ["css/owl_carousel","css/app","css/font_awesome","css/bootstrap_datepicker"], () => (__webpack_require__("./resources/sass/owl_carousel.scss")))
-/******/ 	__webpack_require__.O(undefined, ["css/owl_carousel","css/app","css/font_awesome","css/bootstrap_datepicker"], () => (__webpack_require__("./resources/sass/bootstrap_datepicker.scss")))
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/owl_carousel","css/app","css/font_awesome","css/bootstrap_datepicker"], () => (__webpack_require__("./resources/sass/font_awesome.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/owl-carousel","css/app","css/font-awesome","css/bootstrap-datepicker"], () => (__webpack_require__("./resources/js/app.js")))
+/******/ 	__webpack_require__.O(undefined, ["css/owl-carousel","css/app","css/font-awesome","css/bootstrap-datepicker"], () => (__webpack_require__("./resources/sass/app.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/owl-carousel","css/app","css/font-awesome","css/bootstrap-datepicker"], () => (__webpack_require__("./resources/sass/owl-carousel.scss")))
+/******/ 	__webpack_require__.O(undefined, ["css/owl-carousel","css/app","css/font-awesome","css/bootstrap-datepicker"], () => (__webpack_require__("./resources/sass/bootstrap-datepicker.scss")))
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, ["css/owl-carousel","css/app","css/font-awesome","css/bootstrap-datepicker"], () => (__webpack_require__("./resources/sass/font-awesome.scss")))
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()

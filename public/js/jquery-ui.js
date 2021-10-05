@@ -9,13 +9,13 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./resources/js/jquery_ui.js":
+/***/ "./resources/js/jquery-ui.js":
 /*!***********************************!*\
-  !*** ./resources/js/jquery_ui.js ***!
+  !*** ./resources/js/jquery-ui.js ***!
   \***********************************/
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("__webpack_require__(/*! jquery-ui */ \"./node_modules/jquery-ui/ui/widget.js\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvanMvanF1ZXJ5X3VpLmpzLmpzIiwibWFwcGluZ3MiOiJBQUFBQSxtQkFBTyxDQUFDLHdEQUFELENBQVAiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvanMvanF1ZXJ5X3VpLmpzP2I0ZmQiXSwic291cmNlc0NvbnRlbnQiOlsicmVxdWlyZSgnanF1ZXJ5LXVpJyk7XG4iXSwibmFtZXMiOlsicmVxdWlyZSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./resources/js/jquery_ui.js\n");
+eval("__webpack_require__(/*! jquery-ui */ \"./node_modules/jquery-ui/ui/widget.js\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvanMvanF1ZXJ5LXVpLmpzLmpzIiwibWFwcGluZ3MiOiJBQUFBQSxtQkFBTyxDQUFDLHdEQUFELENBQVAiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvanMvanF1ZXJ5LXVpLmpzP2IxMjAiXSwic291cmNlc0NvbnRlbnQiOlsicmVxdWlyZSgnanF1ZXJ5LXVpJyk7XG4iXSwibmFtZXMiOlsicmVxdWlyZSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./resources/js/jquery-ui.js\n");
 
 /***/ }),
 
@@ -80,7 +80,7 @@ eval("var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!\n * jQ
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module can't be inlined because the eval-source-map devtool is used.
-/******/ 	var __webpack_exports__ = __webpack_require__("./resources/js/jquery_ui.js");
+/******/ 	var __webpack_exports__ = __webpack_require__("./resources/js/jquery-ui.js");
 /******/ 	
 /******/ })()
 ;
