@@ -18,9 +18,9 @@ class CreateBillingsTable extends Migration
             $table->string('name');
             $table->integer('total');
             $table->biginteger('service_id');
-            $table->biginteger('device_id');
+            $table->biginteger('device_of_room_id');
             $table->biginteger('room_id');
-            $table->biginteger('user_id');
+            $table->biginteger('user_of_room_id');
             $table->timestamps();
         });
     }
