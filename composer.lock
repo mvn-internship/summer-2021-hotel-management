@@ -363,18 +363,6 @@
         },
         {
             "name": "doctrine/dbal",
-<<<<<<< HEAD
-            "version": "3.1.3",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/doctrine/dbal.git",
-                "reference": "96b0053775a544b4a6ab47654dac0621be8b4cf8"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/dbal/zipball/96b0053775a544b4a6ab47654dac0621be8b4cf8",
-                "reference": "96b0053775a544b4a6ab47654dac0621be8b4cf8",
-=======
             "version": "3.1.2",
             "source": {
                 "type": "git",
@@ -385,7 +373,6 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/doctrine/dbal/zipball/3ee2622b57370c786f531678f6641208747f7bfc",
                 "reference": "3ee2622b57370c786f531678f6641208747f7bfc",
->>>>>>> f78b2c68f8f2475c733a02e4e07396cbc0218618
                 "shasum": ""
             },
             "require": {
