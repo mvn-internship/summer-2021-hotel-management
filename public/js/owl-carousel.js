@@ -9,13 +9,13 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./resources/js/owl_carousel.js":
+/***/ "./resources/js/owl-carousel.js":
 /*!**************************************!*\
-  !*** ./resources/js/owl_carousel.js ***!
+  !*** ./resources/js/owl-carousel.js ***!
   \**************************************/
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("__webpack_require__(/*! owl.carousel */ \"./node_modules/owl.carousel/dist/owl.carousel.js\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvanMvb3dsX2Nhcm91c2VsLmpzLmpzIiwibWFwcGluZ3MiOiJBQUFBQSxtQkFBTyxDQUFDLHNFQUFELENBQVAiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvanMvb3dsX2Nhcm91c2VsLmpzPzk4NjAiXSwic291cmNlc0NvbnRlbnQiOlsicmVxdWlyZSgnb3dsLmNhcm91c2VsJyk7XG4iXSwibmFtZXMiOlsicmVxdWlyZSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./resources/js/owl_carousel.js\n");
+eval("__webpack_require__(/*! owl.carousel */ \"./node_modules/owl.carousel/dist/owl.carousel.js\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9yZXNvdXJjZXMvanMvb3dsLWNhcm91c2VsLmpzLmpzIiwibWFwcGluZ3MiOiJBQUFBQSxtQkFBTyxDQUFDLHNFQUFELENBQVAiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvanMvb3dsLWNhcm91c2VsLmpzP2YwYTIiXSwic291cmNlc0NvbnRlbnQiOlsicmVxdWlyZSgnb3dsLmNhcm91c2VsJyk7Il0sIm5hbWVzIjpbInJlcXVpcmUiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./resources/js/owl-carousel.js\n");
 
 /***/ }),
 
@@ -60,7 +60,7 @@ eval("/**\n * Owl Carousel v2.3.4\n * Copyright 2013-2018 David Deutsch\n * Lice
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module can't be inlined because the eval-source-map devtool is used.
-/******/ 	var __webpack_exports__ = __webpack_require__("./resources/js/owl_carousel.js");
+/******/ 	var __webpack_exports__ = __webpack_require__("./resources/js/owl-carousel.js");
 /******/ 	
 /******/ })()
 ;
