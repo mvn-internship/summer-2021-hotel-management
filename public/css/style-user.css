@@ -1836,4 +1836,36 @@ position: relative;
     color: red;
     margin-left: 5px;
 }
-
+/* login page*/
+.login-page {
+    padding: 50px;
+}
+.form-check {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn-login {
+    width: 100%;
+    background: #8d703b !important;
+    border: none;
+    color: #fff !important;
+    cursor: pointer;
+    transition: .4s;
+}
+.card-body {
+    border: 1px solid grey;
+    margin-top: 2rem;
+}
+.forget-password a {
+    color: black !important;
+}
+.register-here {
+    color: #8d703b !important;
+}
+.invalid-feedbacks {
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    color: #e3342f;
+}

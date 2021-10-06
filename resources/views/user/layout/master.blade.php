@@ -7,9 +7,9 @@
    
     <link rel="stylesheet" href="{{ asset('/css/style-user.css') }}">
     <link rel="stylesheet" href="{{ asset('/css/app.css') }}">
-    <link rel="stylesheet" href="{{ asset('/css/owl_carousel.css') }}">
-    <link rel="stylesheet" href="{{ asset('/css/bootstrap_datepicker.css') }}">
-    <link rel="stylesheet" href="{{ asset('/css/font_awesome.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/owl-carousel.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/bootstrap-datepicker.css') }}">
+    <link rel="stylesheet" href="{{ asset('/css/font-awesome.css') }}">
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i" rel="stylesheet">
   </head>
@@ -137,8 +137,8 @@
 
 
   <script src="{{ asset('/js/app.js') }}"></script>
-  <script src="{{ asset('/js/owl_carousel.js') }}"></script>
-  <script src="{{ asset('/js/jquery_ui.js') }}"></script>
+  <script src="{{ asset('/js/owl-carousel.js') }}"></script>
+  <script src="{{ asset('/js/jquery-ui.js') }}"></script>
   <script src="{{ asset('/js/waypoints.js') }}"></script>
   <script src="{{ asset('/js/main.js') }}"></script>
   </body>
