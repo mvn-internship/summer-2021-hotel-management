@@ -16,7 +16,7 @@ class HomeController extends Controller
     public function index()
     {
         $user = Auth::guard('admin')->user();
-        return view('admin.home',$user);
+        return view('admin.home', $user);
     }
 
     /**

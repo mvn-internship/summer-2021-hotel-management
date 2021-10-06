@@ -35,6 +35,13 @@ class LoginController extends Controller
         $this->middleware('guest:admin')->except('logout');
     }
 
+    /**
+     * Function login.
+     *
+     * @param Request $request request from form
+     *
+     * @return void
+     */
     public function login(Request $request)
     {
         if ($request->getMethod() == 'GET') {
@@ -48,11 +55,18 @@ class LoginController extends Controller
             return redirect()->back()->withInput();
         }
     }
+
+
+    /**
+     * Function register.
+     *
+     * @return void
+     */
     public function logout()
     {
         Auth::guard('admin')->logout();
         \Session::flush();
-        \Session::put('success','You are logout successfully');        
+        \Session::put('success', 'You are logout successfully');
         return redirect(route('admin.login'));
     }
 }

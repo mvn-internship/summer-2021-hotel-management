@@ -55,6 +55,13 @@ class RegisterController extends Controller
         ]);
     }
 
+    /**
+     * Function register.
+     *
+     * @param Request $request request from form
+     *
+     * @return void
+     */
     public function register(Request $request)
     {
         if ($request->getMethod() == 'GET') {
@@ -66,11 +73,10 @@ class RegisterController extends Controller
             return redirect('/admin/register')->withErrors($validator)->withInput();
         }
         // dd($validator);
-        $data=$request->except('_token','password_confirmation');
+        $data = $request->except('_token', 'password_confirmation');
         // dd($data);
-        $data['password']=Hash::make($request->password);
+        $data['password'] = Hash::make($request->password);
         Account::create($data);
-        return redirect('admin/login')->with('success','Register Success');
+        return redirect('admin/login')->with('success', 'Register Success');
     }
-
 }
