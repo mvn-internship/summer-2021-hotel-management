@@ -24,6 +24,7 @@ class AccountFactory extends Factory
     {
         return [
             'email' => $this->faker->unique()->safeEmail(),
+            'name'  => $this->faker->name(),
             'avatar' => $this->faker->imageUrl($width = 640, $height = 480),
             'password' => bcrypt(Str::random(10)), // password
             'role' => rand(0,3),

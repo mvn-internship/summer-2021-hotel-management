@@ -17,8 +17,9 @@ class CreateAccountsTable extends Migration
             $table->id();
             $table->string('email');
             $table->string('password');
-            $table->string('avatar');
-            $table->integer('role');
+            $table->string('name');
+            $table->string('avatar')->default('images/user/avatar-1.jpg');
+            $table->integer('role')->default(0);
             $table->rememberToken();
             $table->timestamps();
         });
