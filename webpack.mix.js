@@ -12,10 +12,11 @@ const mix = require('laravel-mix');
  */
 
 mix.js('resources/js/app.js', 'public/js')
+    .vue()
+    .sass('resources/sass/app.scss', 'public/css')
     .js('resources/js/owl-carousel.js', 'public/js')
     .js('resources/js/jquery-ui.js', 'public/js')
     .js('resources/js/waypoints.js', 'public/js')
-    .sass('resources/sass/app.scss', 'public/css')
     .sass('resources/sass/owl-carousel.scss', 'public/css')
     .sass('resources/sass/bootstrap-datepicker.scss', 'public/css')
     .sass('resources/sass/font-awesome.scss', 'public/css')
