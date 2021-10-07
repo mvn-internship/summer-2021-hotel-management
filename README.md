@@ -16,7 +16,7 @@ git checkout develop
 
 ```bash
 cd summer-2021-hotel-management
-cp environment/.env.local .env
+cp environments/.env.local .env
 ```
 
 ```bash
