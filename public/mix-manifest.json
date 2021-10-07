@@ -3,8 +3,12 @@
     "/js/owl-carousel.js": "/js/owl-carousel.js",
     "/js/jquery-ui.js": "/js/jquery-ui.js",
     "/js/waypoints.js": "/js/waypoints.js",
+    "/js/bootstrap.js": "/js/bootstrap.js",
+    "/js/app-admin.js": "/js/app-admin.js",
+    "/css/fontawesome.css": "/css/fontawesome.css",
     "/css/owl-carousel.css": "/css/owl-carousel.css",
     "/css/app.css": "/css/app.css",
+    "/css/bootstrap-datepicker.css": "/css/bootstrap-datepicker.css",
     "/css/font-awesome.css": "/css/font-awesome.css",
-    "/css/bootstrap-datepicker.css": "/css/bootstrap-datepicker.css"
+    "/css/jquery.scrollbar.css": "/css/jquery.scrollbar.css"
 }

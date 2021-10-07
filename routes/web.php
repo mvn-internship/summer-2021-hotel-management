@@ -4,6 +4,8 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\User\RoomController;
 use App\Http\Controllers\User\BookingController;
+use App\Http\Controllers\Admin\Auth\LoginController;
+use App\Http\Controllers\Admin\AdminHomeController;
 
 /*
 |--------------------------------------------------------------------------
@@ -23,8 +25,5 @@ Route::group(['namespace' => 'user'], function() {
     Route::get('rooms/{id}',[RoomController::class, 'show'])->name('rooms.show');
     Route::get('bookings',[BookingController::class, 'index'])->name('bookings.index');
 });
-Route::prefix('admin')->group(function () {
-    Route::get('/', function () {
-       return view('welcome');
-    });
-});
+
+Route::get('/home', [HomeController::class, 'index'])->name('home');
