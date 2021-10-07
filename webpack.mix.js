@@ -19,4 +19,8 @@ mix.js('resources/js/app.js', 'public/js')
     .sass('resources/sass/owl-carousel.scss', 'public/css')
     .sass('resources/sass/bootstrap-datepicker.scss', 'public/css')
     .sass('resources/sass/font-awesome.scss', 'public/css')
+    .js('resources/js/jquery-slimscroll.js', 'public/js')
+    .js('resources/js/jquery.scrollbar.js', 'public/js')
+    .js('resources/js/bootstrap.js', 'public/js')
+    .sass('resources/sass/scrollbar.scss', 'public/css')
     .sourceMaps();
